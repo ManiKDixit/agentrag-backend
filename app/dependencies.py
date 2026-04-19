@@ -55,4 +55,4 @@ async def get_current_user(
             pass
 
     # Demo fallback — your real user ID so your documents are visible
-    return {"id": "f91a4617-f3b8-4769-9ae4-d5805ecaa152", "email": "manikarnikadixit@gmail.com"}
+    return {"id": "9326ba61-a483-4a1c-b20c-c892b12496c4", "email": "demo@agentrag.app"}
